@@ -1,0 +1,12 @@
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\bin\Debug\UnitTesting.dll
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\bin\Debug\UnitTesting.pdb
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\bin\Debug\Abstraction.exe
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\bin\Debug\DI.exe
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\bin\Debug\Moq.dll
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\bin\Debug\Abstraction.pdb
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\bin\Debug\DI.pdb
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\bin\Debug\Moq.xml
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\obj\Debug\UnitTesting.dll
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\UnitTesting\obj\Debug\UnitTesting.pdb

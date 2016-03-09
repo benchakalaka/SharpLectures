@@ -1,0 +1,8 @@
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\Abstraction\bin\Debug\Abstraction.exe.config
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\Abstraction\bin\Debug\Abstraction.exe
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\Abstraction\bin\Debug\Abstraction.pdb
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\Abstraction\obj\Debug\Abstraction.exe
+c:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\Abstraction\bin\Debug\Autofac.dll
+C:\Users\ihor.karpachev\documents\visual studio 2015\Projects\DI\Abstraction\bin\Debug\Autofac.xml
